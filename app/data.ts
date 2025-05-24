@@ -33,7 +33,7 @@ export const PROJECTS: Project[] = [
   {
     name: 'Revolutionizing Logistics The Future of Toll & Damage Attribution',
     description:
-      'Automating tolls and damages of trailers to the right parties by analyzing trip data, timestamps, and inspection history. Full video here',
+      'Automating tolls and damages of trailers to the right parties by analyzing trip data, timestamps, and inspection history.',
     link: 'https://github.com/hsuehningchao/Smart-Logistics-Toll-and-Damage-Process-Redesign/blob/main/poster_new.pdf',
     video:
       'https://res.cloudinary.com/demisrw4d/video/upload/v1748110870/Media2_prse4w.mp4',
