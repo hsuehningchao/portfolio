@@ -29,12 +29,12 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'Motion Primitives Pro',
+    name: 'Revolutionizing Logistics The Future of Toll & Damage Attribution',
     description:
-      'Advanced components and templates to craft beautiful websites.',
-    link: 'https://pro.motion-primitives.com/',
+      'Links tolls and damages to the right subscriber by analyzing trip data, timestamps, and inspection history. ',
+    link: 'https://github.com/hsuehningchao/Smart-Logistics-Toll-and-Damage-Process-Redesign/blob/main/poster_new.pdf',
     video:
-      'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/newProfileItem/d898be8a-7037-4c71-af0c-8997239b050d.mp4?_a=DATAdtAAZAA0',
+      'https://www.youtube.com/watch?v=La1AOvXXJeg&t=46s',
     id: 'project1',
   },
   {
@@ -105,21 +105,13 @@ export const BLOG_POSTS: BlogPost[] = [
 
 export const SOCIAL_LINKS: SocialLink[] = [
   {
-    label: 'Github',
-    link: 'https://github.com/ibelick',
-  },
-  {
-    label: 'Twitter',
-    link: 'https://twitter.com/ibelick',
-  },
-  {
     label: 'LinkedIn',
-    link: 'https://www.linkedin.com/in/ibelick',
+    link: 'https://www.linkedin.com/in/hsueh-ning-chao/',
   },
   {
-    label: 'Instagram',
-    link: 'https://www.instagram.com/ibelick',
+    label: 'Medium',
+    link: 'https://medium.com/@youthful_chestnut_trout_215',
   },
 ]
 
-export const EMAIL = 'your@email.com'
+export const EMAIL = 'hsuehning.chao@gmail.com'
