@@ -164,8 +164,18 @@ export default function Personal() {
                   {project.name}
                   <span className="absolute bottom-0.5 left-0 block h-[1px] w-full max-w-0 bg-zinc-900 dark:bg-zinc-50 transition-all duration-200 group-hover:max-w-full"></span>
                 </a>
-                <p className="text-base text-zinc-600 dark:text-zinc-400">
-                  {project.description}
+                <p className="text-sm text-zinc-600 dark:text-zinc-300">
+                  {project.description}{' '}
+                  {project.videoLink && (
+                    <a
+                      href={project.videoLink}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-blue-500 underline"
+                    >
+                      Full video here
+                    </a>
+                  )}
                 </p>
               </div>
             </div>
