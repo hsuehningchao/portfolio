@@ -80,7 +80,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     description: `．Designed toll and damage data attribution workflow using SQL, reducing billing disputes across trailer networks and eliminating manual work equivalent to 2 full-time employees.
       ．Assessed data readiness by aligning four tables and designing unified data schema to enhance data collection for model deployment and damage type classification.`,
     link:'https://www.youtube.com/watch?v=La1AOvXXJeg&t=46s',
-    logo:'https://res.cloudinary.com/demisrw4d/image/upload/v1748114572/maxresdefault_mpoezx.jpg',
+    logo:'https://res.cloudinary.com/demisrw4d/image/upload/v1748114985/images_1_n3nfiq.jpg',
     id: 'work2',
   },
   {
