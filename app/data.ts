@@ -57,57 +57,36 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: 'Reglazed Studio',
-    title: 'CEO',
-    start: '2024',
-    end: 'Present',
+    company: 'Wabash',
+    title: 'Logistics Analyst - Purdue Capstone Project',
+    start: '2025 Feb',
+    end: '2025 May',
     link: 'https://ibelick.com',
     id: 'work1',
   },
   {
-    company: 'Freelance',
-    title: 'Design Engineer',
-    start: '2022',
-    end: '2024',
+    company: 'Taipei City Market Administration Office',
+    title: 'Project Manager',
+    start: '2022 Feb',
+    end: '2024 June',
     link: 'https://ibelick.com',
     id: 'work2',
-  },
-  {
-    company: 'Freelance',
-    title: 'Front-end Developer',
-    start: '2017',
-    end: 'Present',
-    link: 'https://ibelick.com',
-    id: 'work3',
   },
 ]
 
 export const BLOG_POSTS: BlogPost[] = [
   {
-    title: 'Exploring the Intersection of Design, AI, and Design Engineering',
-    description: 'How AI is changing the way we design',
-    link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
+    title: 'Analysis: Nestlé and sennder’s Bid to Decarbonise Logistics',
+    description: 'Summary on recent Supply Chain trends',
+    link: 'https://medium.com/@youthful_chestnut_trout_215/analysis-nestl%C3%A9-and-sennders-bid-to-decarbonise-logistics-75c757e2513c',
     uid: 'blog-1',
   },
   {
-    title: 'Why I left my job to start my own company',
+    title: 'February 2025 Logistics Manager’s Index Report — Retail Analysis',
     description:
-      'A deep dive into my decision to leave my job and start my own company',
-    link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
+      Summary on recent Supply Chain trends',
+    link: 'https://medium.com/@youthful_chestnut_trout_215/february-2025-logistics-managers-index-report-retail-analysis-1cbbc0dccb9c',
     uid: 'blog-2',
-  },
-  {
-    title: 'What I learned from my first year of freelancing',
-    description:
-      'A look back at my first year of freelancing and what I learned',
-    link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
-    uid: 'blog-3',
-  },
-  {
-    title: 'How to Export Metadata from MDX for Next.js SEO',
-    description: 'A guide on exporting metadata from MDX files to leverage Next.js SEO features.',
-    link: '/blog/example-mdx-metadata',
-    uid: 'blog-4',
   },
 ]
 
