@@ -2,7 +2,7 @@ type Project = {
   name: string
   description: string
   link: string
-  image: string
+  video: string
   id: string
 }
 
@@ -33,7 +33,7 @@ export const PROJECTS: Project[] = [
     description:
       'Links tolls and damages to the right subscriber by analyzing trip data, timestamps, and inspection history. ',
     link: 'https://github.com/hsuehningchao/Smart-Logistics-Toll-and-Damage-Process-Redesign/blob/main/poster_new.pdf',
-    image:
+    video:
       'https://res.cloudinary.com/demisrw4d/image/upload/v1748105192/pexels-elevate-1267325_idqinc.jpg',
     id: 'project1',
   },
@@ -41,7 +41,7 @@ export const PROJECTS: Project[] = [
     name: 'Retail Supplier Analysis',
     description: 'Built supplier scorecards and performed ABC analysis using KPIs such as cost, defect rate, production lead time, and revenue, enhancing strategic vendor management.',
     link: 'https://github.com/hsuehningchao/Supplier-Analysis-Retail',
-    image:
+    video:
       'https://res.cloudinary.com/demisrw4d/image/upload/v1748105192/pexels-tima-miroshnichenko-6169056_adbtx6.jpg',
     id: 'project2',
   },
@@ -49,8 +49,8 @@ export const PROJECTS: Project[] = [
     name: 'Retail Competitor Analysis on Candy Brands',
     description: 'Utilized CatBoost modeling to uncover key sales trends and customer behavior patterns',
     link: 'https://github.com/hsuehningchao/Competitor-Analysis-using-CatBoost-modeling',
-    image:
-      'https://res.cloudinary.com/demisrw4d/image/upload/v1748105316/various-jelly-counter_ycywti.jpg',
+    video:
+      'https://res.cloudinary.com/demisrw4d/video/upload/v1748106553/Media1_yc8eal.mp4',
     id: 'project2',
   },
 ]
