@@ -3,6 +3,7 @@ type Project = {
   description: string
   link: string
   video: string
+  videoLink: string
   id: string
 }
 
@@ -32,10 +33,11 @@ export const PROJECTS: Project[] = [
   {
     name: 'Revolutionizing Logistics The Future of Toll & Damage Attribution',
     description:
-      'Links tolls and damages to the right subscriber by analyzing trip data, timestamps, and inspection history. ',
-    link: 'https://www.youtube.com/watch?v=La1AOvXXJeg&t=46s',
+      'Automating tolls and damages of trailers to the right parties by analyzing trip data, timestamps, and inspection history. Full video here',
+    link: 'https://github.com/hsuehningchao/Smart-Logistics-Toll-and-Damage-Process-Redesign/blob/main/poster_new.pdf',
     video:
       'https://res.cloudinary.com/demisrw4d/video/upload/v1748110870/Media2_prse4w.mp4',
+    videoLink: 'https://youtu.be/La1AOvXXJeg',
     id: 'project1',
   },
   {
@@ -44,6 +46,7 @@ export const PROJECTS: Project[] = [
     link: 'https://github.com/hsuehningchao/Supplier-Analysis-Retail/blob/main/supply_chain%20analyitcs.ipynb',
     video:
       'https://res.cloudinary.com/demisrw4d/video/upload/v1748111152/Media3_tmpzjt.mp4',
+    videoLink: '',
     id: 'project2',
   },
     {
@@ -52,6 +55,7 @@ export const PROJECTS: Project[] = [
     link: 'https://github.com/hsuehningchao/Competitor-Analysis-using-CatBoost-modeling/blob/main/Presentation_CompetitorAnalysis.pdf',
     video:
       'https://res.cloudinary.com/demisrw4d/video/upload/v1748106553/Media1_yc8eal.mp4',
+    videoLink: '',
     id: 'project2',
   },
 ]
