@@ -61,6 +61,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Logistics Analyst - Purdue Capstone Project',
     start: '2025 Feb',
     end: '2025 May',
+    link:'',
     id: 'work1',
   },
   {
@@ -68,6 +69,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Project Manager',
     start: '2022 Feb',
     end: '2024 June',
+    link:'',
     id: 'work2',
   },
 ]
