@@ -16,7 +16,7 @@ export function Header() {
           className="text-zinc-600 dark:text-zinc-500"
           delay={0.5}
         >
-        Project Manager
+        Project Manager｜Purdue MS Business Anaytics and Information Management'25
         </TextEffect>
       </div>
     </header>
