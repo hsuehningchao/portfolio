@@ -61,6 +61,15 @@ export const PROJECTS: Project[] = [
 ]
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
+    {
+    company: 'Prediction Guard',
+    title: 'Data Analyst - Purdue Capstone Project',
+    start: '2025 May',
+    end: 'Present',
+    description: '',
+    link:'',
+    id: 'work1',
+  },
   {
     company: 'Wabash',
     title: 'Logistics Analyst - Purdue Capstone Project',
@@ -69,7 +78,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     description: `．Designed toll and damage data attribution workflow using SQL, reducing billing disputes across trailer networks and eliminating manual work equivalent to 2 full-time employees.
       ．Assessed data readiness by aligning four tables and designing unified data schema to enhance data collection for model deployment and damage type classification.`,
     link:'https://www.youtube.com/watch?v=La1AOvXXJeg&t=46s',
-    id: 'work1',
+    id: 'work2',
   },
   {
     company: 'Taipei City Market Administration Office',
@@ -88,7 +97,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
 ．Responded to stakeholder sentiment during policy transitions by crafting strategic communications, including press releases,
   to mitigate concerns and maintain operational continuity.`,
     link:'',
-    id: 'work2',
+    id: 'work3',
   },
 ]
 
