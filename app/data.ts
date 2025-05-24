@@ -14,6 +14,7 @@ type WorkExperience = {
   end: string
   description: string
   link: string
+  logo: string
   id: string
 }
 
@@ -68,6 +69,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     end: 'Present',
     description: '',
     link:'',
+    logo:'https://res.cloudinary.com/demisrw4d/image/upload/v1748114422/PG_eivm7c.png',
     id: 'work1',
   },
   {
@@ -78,6 +80,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     description: `．Designed toll and damage data attribution workflow using SQL, reducing billing disputes across trailer networks and eliminating manual work equivalent to 2 full-time employees.
       ．Assessed data readiness by aligning four tables and designing unified data schema to enhance data collection for model deployment and damage type classification.`,
     link:'https://www.youtube.com/watch?v=La1AOvXXJeg&t=46s',
+    logo:'https://res.cloudinary.com/demisrw4d/image/upload/v1748114572/maxresdefault_mpoezx.jpg',
     id: 'work2',
   },
   {
@@ -97,6 +100,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
 ．Responded to stakeholder sentiment during policy transitions by crafting strategic communications, including press releases,
   to mitigate concerns and maintain operational continuity.`,
     link:'',
+    logo:'https://res.cloudinary.com/demisrw4d/image/upload/v1748114591/2307271453428669881050_wqw2cy.jpg',
     id: 'work3',
   },
 ]
