@@ -84,7 +84,7 @@ export const BLOG_POSTS: BlogPost[] = [
   {
     title: 'February 2025 Logistics Manager’s Index Report — Retail Analysis',
     description:
-      Summary on recent Supply Chain trends',
+      'Summary on recent Supply Chain trends',
     link: 'https://medium.com/@youthful_chestnut_trout_215/february-2025-logistics-managers-index-report-retail-analysis-1cbbc0dccb9c',
     uid: 'blog-2',
   },
