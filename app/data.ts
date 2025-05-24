@@ -61,7 +61,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Logistics Analyst - Purdue Capstone Project',
     start: '2025 Feb',
     end: '2025 May',
-    link:'',
+    link:'https://www.youtube.com/watch?v=La1AOvXXJeg&t=46s',
     id: 'work1',
   },
   {
