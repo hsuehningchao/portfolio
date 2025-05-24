@@ -136,10 +136,10 @@ export default function Personal() {
         transition={TRANSITION_SECTION}
       >
         <div className="flex-1">
-          <p className="text-zinc-600 dark:text-zinc-400">
-            Project Manager passionate about supply chain, hands-on experience in logistics optimization utilizing data analytics with SQL, Python.
-            2.5 years of experience bridging public-sector operations and data-driven decision-making. Skilled in
-            requirements gathering, sourcing strategy, and stakeholder alignment. 
+          <p className="whitespace-pre-line text-zinc-600 dark:text-zinc-400">
+            Project Manager experience in both public and private corporate, passionate about supply chain, with hands-on experience in logistics optimization utilizing SQL, Python.
+            2.5 years of experience bridging public-sector operations and data-driven decision-making. 
+            Skilled in requirements gathering, sourcing strategy, and stakeholder alignment. 
           </p>
         </div>
       </motion.section>
