@@ -73,16 +73,16 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     start: '2022 Feb',
     end: '2024 June',
     description: `．Oversaw operations of Taipei’s top-ranked retail markets, standardized compliance and food safety routines for 500+ vendors
-by streamlining inspection workflows and implementing vendor training, reducing reported violations and aligning operations
-with evolving municipal policies.
+                    by streamlining inspection workflows and implementing vendor training, reducing reported violations and aligning operations
+                    with evolving municipal policies.
 ．Managed sourcing process for $800K facility service contracts by optimizing scope, supplier evaluation, RFP/RFQ
-development and contract negotiation, achieving 5% cost savings while ensuring vendor performance and business model fit.
+  development and contract negotiation, achieving 5% cost savings while ensuring vendor performance and business model fit.
 ．Orchestrated food court renovation project by hosting stakeholder briefings and site visits, aligning community concerns, and
-proposing new business model, resulting in 2-month acceleration in project delivery.
+  proposing new business model, resulting in 2-month acceleration in project delivery.
 ．Drove mobile payment adoption across 500+ traditional market vendors by promoting targeted campaigns tied to cultural
-events, resulting in a 30% increase in both vendor adoption and customer foot traffic during the pilot period.
+  events, resulting in a 30% increase in both vendor adoption and customer foot traffic during the pilot period.
 ．Responded to stakeholder sentiment during policy transitions by crafting strategic communications, including press releases,
-to mitigate concerns and maintain operational continuity.`,
+  to mitigate concerns and maintain operational continuity.`,
     link:'',
     id: 'work2',
   },
