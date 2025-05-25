@@ -63,14 +63,24 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
     {
+    company: 'Valor Tech',
+    title: 'Strategy Analyst Intern',
+    start: '2025 May',
+    end: 'Present',
+    description: 'Conducting market research, stakeholder mapping, and go-to-market analysis to support national rollout of community health platform.'
+    link:'',
+    logo:'',
+    id: 'work1',
+  },
+    {
     company: 'Prediction Guard',
-    title: 'Data Analyst - Purdue Capstone Project',
+    title: 'Machine Learning Analyst - Purdue Capstone Project',
     start: '2025 May',
     end: 'Present',
     description: '',
     link:'',
     logo:'https://res.cloudinary.com/demisrw4d/image/upload/v1748114422/PG_eivm7c.png',
-    id: 'work1',
+    id: 'work2',
   },
   {
     company: 'Wabash',
@@ -81,7 +91,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
       ．Assessed data readiness by aligning four tables and designing unified data schema to enhance data collection for model deployment and damage type classification.`,
     link:'https://www.youtube.com/watch?v=La1AOvXXJeg&t=46s',
     logo:'https://res.cloudinary.com/demisrw4d/image/upload/v1748114985/images_1_n3nfiq.jpg',
-    id: 'work2',
+    id: 'work3',
   },
   {
     company: 'Taipei City Market Administration Office',
@@ -101,7 +111,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   to mitigate concerns and maintain operational continuity.`,
     link:'',
     logo:'https://res.cloudinary.com/demisrw4d/image/upload/v1748114591/2307271453428669881050_wqw2cy.jpg',
-    id: 'work3',
+    id: 'work4',
   },
 ]
 
