@@ -137,9 +137,8 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="whitespace-pre-line text-zinc-600 dark:text-zinc-400">
-            Project Manager experience in both public and private corporate, passionate about supply chain, with hands-on experience in logistics optimization utilizing SQL, Python.
-            2.5 years of experience bridging public-sector operations and data-driven decision-making. 
-            Skilled in requirements gathering, sourcing strategy, and stakeholder alignment. 
+            Project manager with deep roots in supply chain, data analytics, and business development—bridging tech, logistics, and
+            government. Passionate about transforming data into smarter supply chains strategies.
           </p>
         </div>
       </motion.section>
