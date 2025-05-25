@@ -88,7 +88,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     start: '2025 Feb',
     end: '2025 May',
     description: `．Designed toll and damage data attribution workflow using SQL, reducing billing disputes across trailer networks and eliminating manual work equivalent to 2 full-time employees.
-      ．Assessed data readiness by aligning four tables and designing unified data schema to enhance data collection for model deployment and damage type classification.`,
+    ．Assessed data readiness by aligning four tables and designing unified data schema to enhance data collection for model deployment and damage type classification.`,
     link:'https://www.youtube.com/watch?v=La1AOvXXJeg&t=46s',
     logo:'https://res.cloudinary.com/demisrw4d/image/upload/v1748114985/images_1_n3nfiq.jpg',
     id: 'work3',
@@ -98,17 +98,11 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Project Manager',
     start: '2022 Feb',
     end: '2024 June',
-    description: `．Oversaw operations of Taipei’s top-ranked retail markets, standardized compliance and food safety routines for 500+ vendors
-                    by streamlining inspection workflows and implementing vendor training, reducing reported violations and aligning operations
-                    with evolving municipal policies.
-．Managed sourcing process for $800K facility service contracts by optimizing scope, supplier evaluation, RFP/RFQ
-  development and contract negotiation, achieving 5% cost savings while ensuring vendor performance and business model fit.
-．Orchestrated food court renovation project by hosting stakeholder briefings and site visits, aligning community concerns, and
-  proposing new business model, resulting in 2-month acceleration in project delivery.
-．Drove mobile payment adoption across 500+ traditional market vendors by promoting targeted campaigns tied to cultural
-  events, resulting in a 30% increase in both vendor adoption and customer foot traffic during the pilot period.
-．Responded to stakeholder sentiment during policy transitions by crafting strategic communications, including press releases,
-  to mitigate concerns and maintain operational continuity.`,
+    description: `．Oversaw operations of Taipei’s top-ranked retail markets, standardized compliance and food safety routines for 500+ vendors by streamlining inspection workflows and implementing vendor training, reducing reported violations and aligning operations with evolving municipal policies.
+                    ．Managed sourcing process for $800K facility service contracts by optimizing scope, supplier evaluation, RFP/RFQ development and contract negotiation, achieving 5% cost savings while ensuring vendor performance and business model fit.
+                    ．Orchestrated food court renovation project by hosting stakeholder briefings and site visits, aligning community concerns, and proposing new business model, resulting in 2-month acceleration in project delivery.
+                    ．Drove mobile payment adoption across 500+ traditional market vendors by promoting targeted campaigns tied to cultural events, resulting in a 30% increase in both vendor adoption and customer foot traffic during the pilot period.
+                    ．Responded to stakeholder sentiment during policy transitions by crafting strategic communications, including press releases, to mitigate concerns and maintain operational continuity.`,
     link:'',
     logo:'https://res.cloudinary.com/demisrw4d/image/upload/v1748114591/2307271453428669881050_wqw2cy.jpg',
     id: 'work4',
