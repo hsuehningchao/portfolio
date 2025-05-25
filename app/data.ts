@@ -77,7 +77,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Machine Learning Analyst - Purdue Capstone Project',
     start: '2025 May',
     end: 'Present',
-    description: '',
+    description: 'Creating risk benchmarking framework for open-source generative AI models, evaluating their sensitivity to vulnerabilities.',
     link:'',
     logo:'https://res.cloudinary.com/demisrw4d/image/upload/v1748114422/PG_eivm7c.png',
     id: 'work2',
