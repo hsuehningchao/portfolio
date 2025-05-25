@@ -67,7 +67,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Strategy Analyst Intern',
     start: '2025 May',
     end: 'Present',
-    description: 'Conducting market research, stakeholder mapping, and go-to-market analysis to support national rollout of community health platform.'
+    description: 'Conducting market research, stakeholder mapping, and go-to-market analysis to support national rollout of community health platform.',
     link:'',
     logo:'',
     id: 'work1',
