@@ -68,7 +68,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     start: '2025 June',
     end: 'Present',
     description: 'Create technical content with AI tools and optimize SEO copywriting based on insights from internal metrics.',
-    link:'',
+    link:'https://www.interviewquery.com/dashboard/my-plan',
     logo:'https://res.cloudinary.com/demisrw4d/image/upload/v1750200377/interview_query_logo_ituvmr.jpg',
     id: 'work1',
   },
